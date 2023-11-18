@@ -312,7 +312,7 @@ Clone this repository (and git submodule dependencies) with
 
 ```bash
 git clone --recurse-submodules -j8 https://github.com/axiom-crypto/axiom-v2-contracts.git
-cd axiom-v2-contracts-working
+cd axiom-v2-contracts
 cp .env.example .env
 ```
 
