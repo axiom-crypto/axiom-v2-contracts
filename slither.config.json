@@ -1,0 +1,4 @@
+{
+  "detectors_to_exclude": "low-level-calls,solc-version",
+  "filter_paths": "(test/|script/|lib/)"
+}

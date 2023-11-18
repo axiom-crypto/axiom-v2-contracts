@@ -1,0 +1,31 @@
+# Compiler files
+cache/
+out/
+
+# Ignores development broadcast logs
+!/broadcast
+/broadcast/*/31337/
+/broadcast/**/dry-run/
+
+# Dotenv file
+.env
+
+# IDE
+.idea/
+
+build/
+node_modules/
+INFURA_ID
+GOERLI_PRIVATE_KEY
+CONTRACT_ADDRESS
+
+lcov.info
+coverage
+
+*.swp
+*~
+*.sym
+
+*.pk
+*.pkey
+*.srs
