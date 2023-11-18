@@ -2,6 +2,8 @@
 
 This repo implements smart contracts for Axiom V2, which enables smart contracts to access and compute over the history of Ethereum. The correctness of all queries into Axiom V2 is cryptographically verified by ZK proofs which check the correctness of the compute and data access against an on-chain cache of historic Ethereum block hashes.
 
+**Disclaimer:** These contracts have been deployed on Goerli testnet, but have **not been audited**, and should not be replied upon for production usage. For more information about Axiom V2, visit [docs.axiom.xyz](https://docs.axiom.xyz).
+
 ## Repository Overview
 
 The main contracts in this repository are `AxiomV2Core` and `AxiomV2Query`:
