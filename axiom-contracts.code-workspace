@@ -1,0 +1,11 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "solidity.packageDefaultDependenciesContractsDirectory": "contracts",
+    "solidity.packageDefaultDependenciesDirectory": "lib"
+  }
+}

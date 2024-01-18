@@ -1,0 +1,23 @@
+{
+    "1-prod": {
+        "queryDeadlineInterval": 7200,
+        "proofVerificationGas": 420000,
+        "axiomQueryFee": 3000000000000000,
+        "minMaxFeePerGas": 5000000000,
+        "maxQueryDeadlineInterval": 50400
+    },
+    "5-prod": {
+        "queryDeadlineInterval": 7200,
+        "proofVerificationGas": 420000,
+        "axiomQueryFee": 3000000000000000,
+        "minMaxFeePerGas": 5000000000,
+        "maxQueryDeadlineInterval": 50400
+    },
+    "11155111-prod": {
+        "queryDeadlineInterval": 7200,
+        "proofVerificationGas": 420000,
+        "axiomQueryFee": 3000000000000000,
+        "minMaxFeePerGas": 5000000000,
+        "maxQueryDeadlineInterval": 50400
+    }
+}

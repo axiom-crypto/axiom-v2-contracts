@@ -1,0 +1,8 @@
+{
+    "version": "0.14",
+    "core_verifier_metadata": "snark-verifiers/core/v0.12/AxiomV2CoreVerifier.v0.12.zk.json",
+    "core_historical_verifier_metadata": "snark-verifiers/core/v0.12/AxiomV2CoreHistoricalVerifier.v0.12.zk.json",
+    "core_goerli_verifier_metadata": "snark-verifiers/core/v0.11/AxiomV2CoreGoerliVerifier.v0.11.zk.json",
+    "core_historical_goerli_verifier_metadata": "snark-verifiers/core/v0.11/AxiomV2CoreHistoricalGoerliVerifier.v0.11.zk.json",
+    "query_verifier_metadata": "snark-verifiers/query/v0.14/AxiomV2QueryVerifier.v0.14.zk.json"
+}

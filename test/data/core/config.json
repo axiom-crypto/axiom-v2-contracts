@@ -1,0 +1,8 @@
+{  
+    "version": "0.12",
+    "core_update_f99000_f993ff_file_path": "test/data/core/v0.12/chain1_f99000_f993ff_10_7.v0.12.evm_proof",
+    "core_update_f99000_f9907f_file_path": "test/data/core/v0.12/chain1_f99000_f9907f_10_7.v0.12.evm_proof",
+    "core_update_000000_01ffff_file_path": "test/data/core/v0.12/chain1_000000_01ffff_17_7.v0.12.evm_proof",
+    "axiom_v2_core_verifier_metadata_path": "snark-verifiers/core/v0.12/AxiomV2CoreVerifier.v0.12.zk.json",
+    "axiom_v2_core_historical_verifier_metadata_path": "snark-verifiers/core/v0.12/AxiomV2CoreHistoricalVerifier.v0.12.zk.json"
+}

@@ -1,0 +1,26 @@
+SENDER_ADDRESS=0x5C408Fb725659cCe6ceD523cc1b2D3d3C6E7BD17 bash script/query/deploy_mainnet_prod_v2_query.sh 0xa146dccc2652c691cafe66f548ffc52723b51a9
+
+
+== Logs ==
+  Deploying AxiomV2Query
+  sourceChainId: 1
+  isProd: true
+  saltNum: 57545487527373975362336733773375956133042934185
+  AxiomV2Core / AxiomV2CoreHistoricalMock: 0x69963768F8407dE501029680dE46945F838Fc98B
+  timelock: 0x57Dbf921727818fd2e8a3e97B4958Ab69F6b6815
+  guardian: 0xF88F9B8d445eEEBD83801d8da099695C791bc166
+  unfreeze: 0x10e837Df37990D26f36316dcDa40f50Ef05B9c10
+  queryProvers.length: 5
+  queryProvers[0]: 0xBE427075C57e322CAA8458B22f0C96c808212828
+  queryProvers[1]: 0xA4A3C90040cF19A99b753e17e5A569228BB37B28
+  queryProvers[2]: 0xEa23d6b2Ec821967b78a95BC743430cFeCa6bd3B
+  queryProvers[3]: 0x636f487aF3862fAb7f6B27654e854b526B4445da
+  queryProvers[4]: 0x2E17d5Ae4CA5D010F21993bc9465E830237C36CC
+  queryDeadlineInterval: 7200
+  proofVerificationGas: 420000
+  axiomQueryFee: 3000000000000000
+  minMaxFeePerGas: 5000000000
+  maxQueryDeadlineInterval: 50400
+  AxiomV2HeaderVerifier: 0xd9C75fD200C3bcD23D361aF00c74Db4597f7D583
+  AxiomV2QueryVerifier: 0xB4F8aE14b37A11aeD8dDc2Bc1123C804a51a2b1F
+  AxiomV2Query: 0x83c8c0B395850bA55c830451Cfaca4F2A667a983

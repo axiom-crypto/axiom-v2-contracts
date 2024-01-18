@@ -1,0 +1,48 @@
+{
+  "1-prod": {
+    "tag": "mainnet-prod",
+    "create3": "0x93FEC2C00BfE902F733B57c5a6CeeD7CD1384AE1",
+    "timelock": "0x57Dbf921727818fd2e8a3e97B4958Ab69F6b6815",
+    "guardian": "0xF88F9B8d445eEEBD83801d8da099695C791bc166",
+    "unfreeze": "0x10e837Df37990D26f36316dcDa40f50Ef05B9c10",
+    "core_prover": "0x8aB45df93F29fbB0BD52Fcf8DeE0999e0D3C6dc4",
+    "query_provers": [
+      "0xBE427075C57e322CAA8458B22f0C96c808212828",
+      "0xA4A3C90040cF19A99b753e17e5A569228BB37B28",
+      "0xEa23d6b2Ec821967b78a95BC743430cFeCa6bd3B",
+      "0x636f487aF3862fAb7f6B27654e854b526B4445da",
+      "0x2E17d5Ae4CA5D010F21993bc9465E830237C36CC"
+    ]
+  },
+  "5-prod": {
+    "tag": "goerli-prod",
+    "create3": "0x93FEC2C00BfE902F733B57c5a6CeeD7CD1384AE1",
+    "timelock": "0xc2d7e38a40808BBfc1834C79b5Ba4b27bC4c462e",
+    "guardian": "0x99C7E4eB11541388535a4608C14738C24f131921",
+    "unfreeze": "0x99C7E4eB11541388535a4608C14738C24f131921",
+    "core_prover": "0x8018fe32fCFd3d166E8b4c4E37105318A84BA11b",
+    "query_provers": ["0x8018fe32fCFd3d166E8b4c4E37105318A84BA11b"]
+  },
+  "11155111-prod": {
+    "tag": "sepolia-prod",
+    "create3": "0x93FEC2C00BfE902F733B57c5a6CeeD7CD1384AE1",
+    "timelock": "0x64656a3b943b0c6f0c8EA2b36871295d1394c13c",
+    "guardian": "0x4A60361f66e5D1118170633c43F711000e446FF5",
+    "unfreeze": "0x7071aa7F55947d50A34F5983635536A226b01Ae9",
+    "core_prover": "0xe3c855E6470E163826D69aB98F494F538B8c8D68",
+    "query_provers": [
+      "0xEaa455e4291742eC362Bc21a8C46E5F2b5ed4701",
+      "0xADE07AE9c29A26D7883873f468ee1d75e354eC60",
+      "0xf21E18fB903c3bF461CE25cc580c13987F6A32f8"
+    ]
+  },
+  "11155111-staging": {
+    "tag": "sepolia-staging",
+    "create3": "0x93FEC2C00BfE902F733B57c5a6CeeD7CD1384AE1",
+    "timelock": "0x64656a3b943b0c6f0c8EA2b36871295d1394c13c",
+    "guardian": "0x4A60361f66e5D1118170633c43F711000e446FF5",
+    "unfreeze": "0x4A60361f66e5D1118170633c43F711000e446FF5",
+    "core_prover": "0x88f6b8dBA9C319b6A40C560bD4DC4672Dca0bA3F",
+    "query_provers": ["0x88f6b8dBA9C319b6A40C560bD4DC4672Dca0bA3F"]
+  }
+}

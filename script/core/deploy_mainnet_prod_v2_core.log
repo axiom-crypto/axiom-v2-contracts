@@ -1,0 +1,1 @@
+SENDER_ADDRESS=0x5C408Fb725659cCe6ceD523cc1b2D3d3C6E7BD17  bash script/core/deploy_mainnet_prod_v2_core.sh 0xe36dfaa2e5f59c7ca25fa67ad0396fde1f6488e0

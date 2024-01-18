@@ -1,0 +1,14 @@
+{
+  "name": "AxiomV2QueryVerifier",
+  "version": "0.13",
+  "repo": "github.com/axiom-crypto/axiom-eth-working",
+  "circuit_data": {
+    "aggregate_vkey_hashes": [
+      "0x2632db987858b75e33f0b984c8b809586becfba6a7e555f516b60847fd188020",
+      "0x2f2b74fbfb2c7fdb72a7fd1f9759bc8cd90d80c5ee9924658a6ec5c34431195a",
+      "0x14d2ddf28aefcfd8e8587578b3b47e9d2918c2a6874b313de0166901e1122067",
+      "0x07948ac970b2f5ccedb0b64bbe15c025c64a16e1de180f17bfba2e0d667b3bef",
+      "0x1ea3faeb83d317b600f7bf4537b0914fa07bd83ad884b3a4fddfca25da349ed4"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+{
+    "version": "0.12",
+    "query_test_file_path": "test/data/query/v0.12/1_each_type.json.cap_32.test.json",
+    "axiom_v2_query_verifier_metadata_path": "snark-verifiers/query/v0.12/AxiomV2QueryVerifier.v0.12.zk.json"
+}
